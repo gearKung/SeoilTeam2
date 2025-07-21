@@ -1,4 +1,4 @@
 # SeoilTeam2
 
-feature/wan write
+feature/seonyeon write
 
