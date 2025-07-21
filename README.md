@@ -1,6 +1,6 @@
 # SeoilTeam2
 
-feature/wan write
+feature/seonyeon write
 
 feature/sangyeon write
 
